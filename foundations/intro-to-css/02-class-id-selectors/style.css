@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.oddn{
+    background-color: #ff9b9b;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.tres{
+    font-size: 24px;
+}
+
+#cuatro{
+    background-color: hsl(131, 100%, 81%);
+    font-size: 24px;
+    font-weight: bold;
+}
